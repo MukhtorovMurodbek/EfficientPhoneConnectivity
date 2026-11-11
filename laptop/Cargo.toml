@@ -2,6 +2,7 @@
 name = "epcd"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 bluer = { version = "0.17.4", features = ["bluetoothd", "rfcomm"] }

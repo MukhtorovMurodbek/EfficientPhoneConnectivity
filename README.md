@@ -58,3 +58,6 @@ The laptop finds the paired phone by itself.
   - group summaries,
   - "local only" notifications,
   - notifications from EPC itself.
+
+## License
+[MIT](LICENSE). Anyone may use EPC for any purpose. It comes with no warranty, and you are responsible for how you use it.
