@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPC</string>
+    <string name="channel_link">Laptop link</string>
+    <string name="waiting">Waiting for laptop</string>
+    <string name="connected_to">Connected to %1$s</string>
+    <string name="needs_permission">Bluetooth permission needed</string>
+    <string name="sync_state">Clipboard: %1$s · Notifications: %2$s</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="send_clipboard">Send clipboard</string>
+    <string name="send_to_laptop">Send to laptop</string>
+    <string name="sent">Sent to laptop</string>
+    <string name="not_connected">Laptop not connected</string>
+    <string name="clipboard_off">Clipboard sync is off on the laptop</string>
+    <string name="clipboard_empty">Clipboard is empty</string>
+    <string name="grant_permissions">Grant Bluetooth &amp; notification permissions</string>
+    <string name="grant_notification_access">Allow notification access</string>
+    <string name="allow_background">Allow running in background</string>
+    <string name="bluetooth_settings">Bluetooth settings (pair laptop)</string>
+    <string name="help">What to sync is chosen in the laptop\'s tray menu.\n\nLaptop → phone clipboard is automatic. Android doesn\'t let background apps read the clipboard, so to send phone → laptop use the \"Send clipboard\" button in the EPC notification, the Quick Settings tile, or Share → Send to laptop.</string>
+</resources>
